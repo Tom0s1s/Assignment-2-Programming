@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\bin\Debug\Däckdjup.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\bin\Debug\Däckdjup.exe
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\bin\Debug\Däckdjup.pdb
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\obj\Debug\Däckdjup.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\obj\Debug\Däckdjup.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\obj\Debug\Däckdjup.exe
+C:\Users\tommy\OneDrive\Skrivbord\däckdjup\Däckdjup\obj\Debug\Däckdjup.pdb

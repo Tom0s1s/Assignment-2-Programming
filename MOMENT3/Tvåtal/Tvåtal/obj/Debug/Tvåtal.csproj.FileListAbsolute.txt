@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\obj\Debug\Tvåtal.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\obj\Debug\Tvåtal.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\bin\Debug\Tvåtal.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\bin\Debug\Tvåtal.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\bin\Debug\Tvåtal.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\obj\Debug\Tvåtal.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Tvåtal\Tvåtal\obj\Debug\Tvåtal.pdb

@@ -1,0 +1,14 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\bin\Debug\ÅlderFärg.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\bin\Debug\ÅlderFärg.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\bin\Debug\ÅlderFärg.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.pdb
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.exe
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\obj\Debug\ÅlderFärg.pdb
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\bin\Debug\ÅlderFärg.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\bin\Debug\ÅlderFärg.exe
+C:\Users\tommy\OneDrive\Skrivbord\ÅlderFärg\ÅlderFärg\bin\Debug\ÅlderFärg.pdb

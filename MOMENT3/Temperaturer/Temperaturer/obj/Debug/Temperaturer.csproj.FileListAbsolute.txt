@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\obj\Debug\Temperaturer.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\obj\Debug\Temperaturer.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\bin\Debug\Temperaturer.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\bin\Debug\Temperaturer.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\bin\Debug\Temperaturer.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\obj\Debug\Temperaturer.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\Temperaturer\Temperaturer\obj\Debug\Temperaturer.pdb

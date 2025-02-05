@@ -1,0 +1,7 @@
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\bin\Debug\DelTal.exe.config
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\bin\Debug\DelTal.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\bin\Debug\DelTal.pdb
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\obj\Debug\DelTal.csproj.AssemblyReference.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\obj\Debug\DelTal.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\obj\Debug\DelTal.exe
+C:\Users\tommy\OneDrive\Skrivbord\MOMENT2\DelTal\DelTal\obj\Debug\DelTal.pdb
